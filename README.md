@@ -23,14 +23,14 @@ To-do list:
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+git remote and origin https://github.com/prasadmld/project1.git
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
 
-- All the `code` required to get started
-- Images of what it should look like
+> Compile and run java code for the server and DB connection
+>  Run code in eclipse IDE
+
+- Open up the Registration.html file on browser`and fill user details
+
 
 ## Usage
 
@@ -38,4 +38,4 @@ To-do list:
 
 ## Contributors
 
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+> Prasad Mld, Manideep, Vasu
